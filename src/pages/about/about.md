@@ -7,6 +7,6 @@ This is a placeholder page.
 
 Be sure to update your `.md` files in `src/pages`, 
 
-![](/files/ace.png)
-
 or use [admin](/admin).
+
+![](/files/ace.png)
